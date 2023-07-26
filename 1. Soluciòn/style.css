@@ -1,0 +1,31 @@
+
+/*/ Estilo del titulo  /*/  
+.titulo{
+  background-color:   rgba(119, 119, 119, 0.932);
+  padding: 8px;
+  text-align: center;
+  color: aliceblue;
+  font-size:20px;
+ 
+
+}
+/*/ Estructura /*/ 
+body{
+  border-style:hidden ;
+    padding: 5px 10px;
+    margin: 100px 460px;
+    font-size:40px;
+/*/ Estilo de la sombra del recuadro /*/ 
+    box-shadow: 2px 6px 5px rgb(145, 145, 145);
+   
+    
+}
+
+
+/*/ Estilos de  encabezado de correo /*/  
+.pie{
+  background-color: rgba(172, 163, 163, 0.829)   ;
+  padding: 8px;
+}
+
+
